@@ -1,6 +1,7 @@
 # flutter_application_1
 
-A new Flutter project.
+This app create with flutter and use database.
+the all code i use for database in the project in file name contenPHPcode
 
 ## Getting Started
 
